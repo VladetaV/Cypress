@@ -1,0 +1,15 @@
+{
+    "validUser": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "invalidUser": {
+      "username": "wrong_username",
+      "password": "wrong_password"
+    },
+    "customer": {
+      "name": "Vladeta",
+      "lastname": "Vujacic",
+      "postalcode": "11000" 
+    }
+  }
